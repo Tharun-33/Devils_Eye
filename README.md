@@ -26,7 +26,7 @@ GitHub
 - If the user is not legitimate it will ask the user to try again with a valid e-mail ID then the page gets loaded from there.
 
 # Sprint-3: Database in MongoDB
-![](images/Sprint3.png)
+![](images/mongodb.jpg)
 - MongoDB is an open-source document database and leading NoSQL database. MongoDB is written in C++. This tutorial will give you great understanding on MongoDB concepts needed to create and deploy a highly scalable and performance-oriented database.
 - Initially I faced difficulty while working on databases and how to fetch the data from the database on our local machines.
 - After exploring, our team and I decided to use the AWS lambda function for response. We used an API key for response on local machines.
