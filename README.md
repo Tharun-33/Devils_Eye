@@ -35,6 +35,6 @@ GitHub
 - Finally, after getting the whole understanding on the electron and how to get the popup box on the particular page which will be embedded in the electron application only.
 
 # Sprint-4: Integrating electron with the database
-![](images/sprint-4.jpg)
+![](images/sprint-4.png)
 - As a student, I want to start the session after selecting my respective session type and mentor name. So that, I can join the session.
 - As a student, I want to get the dialog box at random time stating whether I am attentive in the session or not. So that, I can claim attendance by clicking “Yes that I am present in the session”
