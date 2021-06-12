@@ -45,7 +45,7 @@ Generally, the message asks the student whether he is attentive or not. If yes, 
 - After generating the pop messages successfully. Next, I tried to disappear the message after 10 sec. But, the method is not feasible with the electron technology. 
 
 # Sprint-5: Hu-mongoose(module of MongoDB)
-![](images/Sprint-5.png)
+![](images/sprint-5.png)
 - We made a schema in which we have details of every student’s daily basis information, including the number of pop-ups that have been generated and these pop-ups answered by each student. 
 - These details are implemented into the mongoDB where we have faced several issues. For example, we were clueless about how to traverse the data of nested schema. We have come up with the solution by referring to several resources like, nodechef, stackOverflow, youtube and mongoose official documentation.
 - After succeeding in traversing the data we faced another issue while inserting the data with the MongoDB client. We have come up with the solution by referring to a plethora of resources and also mentor support. We successfully inserted the data into the database in the JSON format. 
