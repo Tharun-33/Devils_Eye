@@ -45,14 +45,14 @@ Generally, the message asks the student whether he is attentive or not. If yes, 
 - After generating the pop messages successfully. Next, I tried to disappear the message after 10 sec. But, the method is not feasible with the electron technology. 
 
 # Sprint-5: Hu-mongoose(module of MongoDB)
-![](images/Sprint5.png)
+![](images/11.png)
 - We made a schema in which we have details of every student’s daily basis information, including the number of pop-ups that have been generated and these pop-ups answered by each student. 
 - These details are implemented into the mongoDB where we have faced several issues. For example, we were clueless about how to traverse the data of nested schema. We have come up with the solution by referring to several resources like, nodechef, stackOverflow, youtube and mongoose official documentation.
 - After succeeding in traversing the data we faced another issue while inserting the data with the MongoDB client. We have come up with the solution by referring to a plethora of resources and also mentor support. We successfully inserted the data into the database in the JSON format. 
 - We have also added the styling of our login page application using CSS.  
 
 # Sprint-6:
-![](images/Sprint5.png)
+![](images/12.png)
 Back and Front
 As I mentioned earlier, we were facing issues while traversing the data during the data retrieval. So, we have seeked help from our mentor for the solution by referring to a plethora of resources. We successfully inserted the data into the database in the JSON format by using mongoose.
 To test the above schema, we have used different mail-IDs where we have faced the issue of the duplicate data in the schema. So, to overcome this, we have made the necessary changes in the code and resolved it. Later, we have tested the same schema and it has worked as it was expected to be. 
@@ -61,12 +61,12 @@ Along with that, we have retrieved the data from the database and tried to inser
 
 
 # Sprint-7:
-![](images/Sprint5.png)
+![](images/dashboard.png)
 As we completed login and logout also few other functionalities as well. In this week's sprint we have completed the design of the dashboard by using CSS styling for the application. We have written the schema. We tested the schema in the electron and ran it while the failures were written and had to come up with the solutions to those errors. Also, we have fetched the data from MongoDB and read the data and inserted it into the electron.
 Similarly, we also completed the SS and styling for the Login page. But we found certain difficulty while traversing the data from the MongoDB to the electron app. Also, faced difficulty while representing the data in the tabular form.
 
 # Sprint-8:
-![](images/Sprint5.png)
+![](images/application-1.jpg)
 The Final Product testing
 As we walk through the whole process we have got the necessary pages and the application purpose right. Now, is to design the pages, add the framework on the desktop application and the dashboard. Including that, we have successfully processed the students attendance data from the MongoDB to the dashboard and also can visually look at the attendance of the students. 
 We have tested our application which includes certain edge cases for example, if the students join after or before the allotted session timings the application will not work. Later, we alongside have started working on the technical documentation of the application and prepared a technical presentation for the better understanding of the application requirements to the panel. 
